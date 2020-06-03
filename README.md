@@ -3,6 +3,10 @@
 
 比赛连接为，https://tianchi.aliyun.com/competition/entrance/231768/rankingList
 
+代码在[code](code/)文件夹
+
+ppt在[ppt](ppt/)文件夹
+
 作者: 天才海神号
 
 时间: 2020年03月14日
